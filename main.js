@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent =" Cảm ơn em đã dành thời gian để nhìn những trò trẻ con của anhh và anh có những điều muốn gởi gắm đến tình iu của anhh❤️. Chúc embes của anh 1/6 vui vẻ luôn hạnh phúc và đậu nguyện vọng 1 nhé , đợi anh về anh sẽ dẫn nàng đi chơi . Anh rất yêu em💕"
+var letterContent =" Cảm ơn em đã dành thời gian để nhìn những trò trẻ con của anhh và anh có những điều muốn gởi gắm đến tình iu của anhh❤️. Chúc embe của anh 1/6 vui vẻ luôn hạnh phúc và đậu nguyện vọng 1 nhé , đợi anh về anh sẽ dẫn nàng đi chơi . Anh rất yêu em💕"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
